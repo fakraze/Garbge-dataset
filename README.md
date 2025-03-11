@@ -3,11 +3,11 @@
 
 This dataset contains **5 categories** of garbage images for classification tasks:
 
-- Cardboard
-- Glass
-- Plastic
-- Metal
-- Paper
+- Cardboard:305
+- Glass:112
+- Plastic:100
+- Metal:113
+- Paper:100
 
 ## Dataset Structure
 
